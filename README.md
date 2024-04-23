@@ -14,3 +14,5 @@ Ensure that all scripts and functions mentioned are in your MATLAB path or curre
 
 CIte:
 If this code helps you or the paper helps you, cite it. 
+
+this is the implementation of paper Evaluating the role of transportation system in community seismic resilience, which will be published as resilient cities and structures, authored by Kairui Feng, Cao Wang and Quanwang Li
